@@ -14,6 +14,9 @@
 
 -->
 
+[![PayMeaCofee](chrome://downloads/#:~:text=https%3A//camo.githubusercontent.com/8ffb08effca782ac1fc8efc01c7647ab6cb08c1c2bbb816700fe97b1543649fa/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669322e706e673f763d33)](ko-fi.com/thalisd)
+
+-->
 [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalisdenis98@gmail.com)
 [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@ThalisD)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalis-denis-817028214/)
