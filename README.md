@@ -1,4 +1,4 @@
-### 👋 Hello my nome is Thalis, but can u call me pipah, iam new here, trying to learning something good, if u can help me, i will be gratefully.
+### 👋 Hello, my name is Thalis and I'm new here. I'm eager to learn something new, and I would be grateful if you could help me out.
 
 --> 
 
