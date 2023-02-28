@@ -15,7 +15,7 @@
 -->
 
 
-[![PayMeaCofee](https://camo.githubusercontent.com/8ffb08effca782ac1fc8efc01c7647ab6cb08c1c2bbb816700fe97b1543649fa/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669322e706e673f763d33)](ko-fi.com/thalisd)
+[![PayMeaCofee](https://camo.githubusercontent.com/8ffb08effca782ac1fc8efc01c7647ab6cb08c1c2bbb816700fe97b1543649fa/68747470733a2f2f63646e2e6b6f2d66692e636f6d2f63646e2f6b6f6669322e706e673f763d33)](https://ko-fi.com/thalisd)
 
 
 
