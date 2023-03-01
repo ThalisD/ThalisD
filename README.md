@@ -9,8 +9,8 @@
 - 💬 Ask me about everything is python, python is life, python is all
 - 📫 How to reach me: Discord: Thalis#0189
 - 😄 Pronouns: Him
-- ⚡ Fun fact: IDK Nothing about phython YET!!!
-- ✨  The Future: Want to Be The Number one Python Hero from this Planet!!! Bro!
+- ⚡ Fun fact: IDK to much about phython YET!!!
+- ✨  The Future: DevOps
 
 -->
 
