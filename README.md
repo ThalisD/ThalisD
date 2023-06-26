@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with ADVPL
 - 💬 Ask me about everything is ADVPL
 - 📫 How to reach me: Discord: thalis.denis
-- 😄 Pronouns: Him
 - ⚡ Fun fact: IDK to much about ADVPL YET!!!
 - ✨  The Future: DEV ADVPL
 
